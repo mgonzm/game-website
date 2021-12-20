@@ -1,0 +1,160 @@
+body {
+  background-color: #161853;
+  font-family: "Lato", sans-serif;
+  text-align: center;
+}
+
+h1 {
+  font-family: "Roboto";
+  color: #FFF;
+}
+
+h2 {
+  font-family: "Lato";
+  font-weight: bold;
+  text-align: center;
+}
+
+/* Navigation Bar */
+
+.navbar-brand {
+  font-family: "Roboto";
+  font-size: 2.5rem;
+  font-weight: bold;
+
+}
+
+.navbar-nav {
+  margin-left: auto;
+}
+
+.nav-item {
+  padding: 0 18px;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+  font-family: "Lato";
+}
+
+/* Heading */
+#header {
+  color: #fff;
+  text-align: center;
+}
+
+.text-center {
+  padding: 50px 0 0;
+}
+
+.sub-header {
+  color: #D5D5D5;
+}
+
+.container-fluid{
+  padding: 2% 5%;
+}
+
+.btn-header {
+  color: #fff;
+  background-color: #EC255A;
+  font-family: "Lato";
+  margin-top: 20px;
+}
+
+.masthead {
+  height: 60vh;
+  min-height: 500px;
+  background-image: url('/Users/melanie/Documents/Web Development/Game-Blog Website/images/header-img.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+/* Features */
+
+#features {
+  background-color: #F5F5F5;
+}
+
+.feature-title {
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.game-name {
+  font-size: 1.5rem;
+  padding-top: 25px;
+}
+
+.feature-box {
+  padding: 4.5%;
+  height: 100%;
+
+}
+
+.container {
+  padding: 60px;
+}
+
+.container-img {
+  width: 150px;
+  height: 150px;
+}
+
+/* Blog */
+
+.blog-container {
+  padding: 0;
+}
+
+.btn-blog {
+  background-color: #EC255A;
+}
+
+.blog-title {
+  color: #FFF;
+  padding-bottom: 40px;
+}
+
+/* Register Section*/
+
+#register {
+  background-color: #292C6D;
+}
+
+.register-box {
+  padding: 40px;
+}
+
+.register-txt {
+  color: #FFF;
+  text-align: left;
+  padding-left: 50px;
+}
+
+.email {
+  height: 50%;
+  width: 50%;
+  border-radius: 10px;
+  padding: 20px 40px;
+  text-transform: uppercase;
+  font-style: italic;
+  color: #1E1D32;
+}
+
+/* Footer Section */
+
+hr {
+  color: #fff;
+}
+
+.social-icon {
+  margin: 20px 30px;
+  color: #fff;
+}
+
+.copyright {
+  color: #fff;
+  text-align: left;
+}
